@@ -64,12 +64,14 @@ npm install
 npm start
 
 ```
- ```csharp
+```csharp
     for (int i = 0 ; i < 10; i++)
     {
       // Code to execute.
     }
-    ```
+```
+
+---------------------
 ```javascript
  function add(num1,num2){
      return num1 + num2;
