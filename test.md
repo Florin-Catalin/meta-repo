@@ -16,6 +16,7 @@ _This text_ is also italic
 
 __This text__ is also bold
 
+## Strikethrough
 <!-- Strikethrough -->
 ~~This text~~ is strikethrough
 
@@ -31,13 +32,14 @@ ___
 
 > This is quote 
 
+## Links
 <!-- Links -->
 [Github](https://github.com/Florin-Catalin)
 <!-- With a title -->
 [Github](https://github.com/Florin-Catalin
 "My repository link")
 
-
+## Lists
 <!-- Unorder lists -->
 * Item 1
 * Item 2
@@ -45,6 +47,7 @@ ___
 * Item 4
     * Nested Item 1
     * Nested Item 2
+
 
 <!-- Order lists -->
 1. Item 1
@@ -57,6 +60,7 @@ ___
 
 <!-- Github Markdown -->
 
+## Code blocks
 <!-- Code Blocks -->
 ```bash
 npm install
@@ -84,6 +88,7 @@ def add(num1, num2):
 
 ```
 
+## Tables
 <!-- Tables -->
 | Name   | Email    | adsa  |
 |------- | ----------|-------|
@@ -92,7 +97,7 @@ def add(num1, num2):
 |dsaad  |  dasdas    | SDAda |
 
 
-
+## Task Lists 
 <!-- Task Lists -->
 * [x] Task 1
 * [X] Task 2
